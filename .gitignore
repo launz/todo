@@ -1,6 +1,7 @@
 #directories
 bower_components
 node_modules
+sources/extensions
 dist
 
 #files
