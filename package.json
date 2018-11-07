@@ -1,0 +1,14 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "minimal multipurpose tool",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Laurenz Riklin",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^3.0.8"
+  }
+}
